@@ -10,3 +10,10 @@ to help navigate to the set of data and files we want to access and work with th
 Just wanted to show this out there, for I found these interesting to work with and useful to know.
 
 These are meant to serve as a guide and showcase my learning experience within the course :)
+
+Note:
+The MIS3320 CourseData directory contains the following directories: 
+        o	The data directory has all the data. 
+        o	The notebook directory is where the codes are saved (where my actual exercises are). 
+        o	The textbook examples directory contains the source codes worked from the textbook and relates to the exercises.
+
