@@ -1,0 +1,18 @@
+                ####Pandas for Everyone: Python Data Analysis####
+
+I took MIS 4390 from my university, which explored Python for quantitative methods and practical techniques of Business and Data Analytics.
+
+I wanted to share the exercises we did that utilized this specific programming language and showcase my understanding of it through set of problems.
+
+We used the computer program, Anaconda, and then Jupyter within the program. We had our own CourseData.zip file directed into its destination directory 
+to help navigate to the set of data and files we want to access and work with the Python language to enter codes specific to what we need to achieve.
+
+Just wanted to show this out there, for I found these interesting to work with and useful to know.
+
+These are meant to serve as a guide and showcase my learning experience within the course :)
+
+Note:
+The MIS3320 CourseData directory (Has all the Python data and codes) contains the following directories: 
+        o	The data directory has all the data. 
+        o	The notebook directory is where the codes are saved (where my actual exercises are; you will see a lot of my notes as well). 
+        o	The textbook examples directory contains the source codes worked from the textbook and relates to the exercises.
